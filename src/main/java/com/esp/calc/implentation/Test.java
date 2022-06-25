@@ -39,11 +39,6 @@ public class Test {
         ParseTreeWalker walker = new ParseTreeWalker();
         walker.walk(calculator, tree);
         
-	
-        
-        
-        
-        
         
 	}
 
