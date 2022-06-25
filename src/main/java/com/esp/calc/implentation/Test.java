@@ -40,6 +40,11 @@ public class Test {
         walker.walk(calculator, tree);
         
 	
+        
+        
+        
+        
+        
 	}
 
 }
